@@ -1,0 +1,9 @@
+# binary files
+/bin/
+/dist/
+scanner
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
